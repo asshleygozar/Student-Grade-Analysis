@@ -7,7 +7,7 @@ Feature:
 - Filters student's grade based on their average
 - Calculates total average grade of a class
 
-Sepcial Method Used:
+Special Method Used:
 - Map
 - Filter
 - Reduce
