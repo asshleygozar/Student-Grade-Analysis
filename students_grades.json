@@ -1,14 +1,38 @@
 [
   {
-    "name:": "Asshley",
+    "name": "Asshley",
     "grade": 95
   },
   {
-    "name:": "Wayne",
+    "name": "Wayne",
     "grade": 98
   },
   {
-    "name:": "Dean",
+    "name": "Dean",
     "grade": 99
+  },
+  {
+    "name": "Peter",
+    "grade": 66
+  },
+  {
+    "name": "Peter",
+    "grade": 26
+  },
+  {
+    "name": "Mark",
+    "grade": 75
+  },
+  {
+    "name": "Ellie",
+    "grade": 1
+  },
+  {
+    "name": "1",
+    "grade": 1
+  },
+  {
+    "name": "Paul",
+    "grade": 1
   }
 ]
